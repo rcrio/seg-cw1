@@ -17,4 +17,5 @@ A gif showing user login and that users having different user types have differe
 ![Showing logins into different pages](https://i.imgur.com/D1JitYK.gif)
 
 A gif showing 
+
 ![Signing up](https://i.imgur.com/7q6lm0O.gif)
