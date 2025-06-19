@@ -12,3 +12,4 @@ Due to university guidelines on plagiarism and collusion, the main branch contai
 - Collaborators: Adam, Lance, and Maxwell
 
 ## Visual Demo
+![Test](https://i.imgur.com/D1JitYK.gif)
