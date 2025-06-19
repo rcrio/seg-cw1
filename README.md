@@ -1,6 +1,13 @@
 # Code Tutors: A website managing bookings for tutors and students
 
 A Django application that utilises Bootstrap for the front-end, Python for the back-end, and SQLite for the database.
+Data was generated using the Faker library.
+
+This application is a platform where students can make requests to tutors for tutoring sessions depending on the tutor's availability and taught subjects. 
+Administrators will approve of the requests which will create an invoice.
+Once an invoice is paid, the administrator will approve of the invoice and it will automatically create the session.
+
+This application has 3 types of users, Admins, Tutors and Students. 
 
 ## Privacy
 Due to university guidelines on plagiarism and collusion, the main branch containing the full code is private. If you are interested in viewing the code, please let me know.
