@@ -12,10 +12,29 @@ Due to university guidelines on plagiarism and collusion, the main branch contai
 - Collaborators: Adam, Lance, and Maxwell
 
 ## Visual Demo
-A gif showing user login and that users having different user types have different pages.
+A [video here](https://youtu.be/mM5Dztqw_og) showing user login and that users having different user types have different pages.
+
+A gif preview of what the video will show.
 
 ![Showing logins into different pages](https://i.imgur.com/D1JitYK.gif)
 
-A gif showing 
+A video here showing how a login works on the website.
+
+A gif preview of what the video will show.
 
 ![Signing up](https://i.imgur.com/7q6lm0O.gif)
+
+A video here showing all the lists of students, tutors, bookings, subjects, requests and invoices.
+
+A gif preview of what the video will show.
+
+![Signing up](https://i.imgur.com/N0kj8AZ.gif)
+
+## What could've been improved?
+Due to time limitations, we were not able to completely deliver the ideal coursework.
+We could've added these features:
+- Deleting profiles does not delete users.
+- We could've hyperlinked places where they show the user's name and ID to make it easier to go to their profiles.
+- More text to guide users easier.
+- Contact page and general information page.
+- The ability to delete your account.
