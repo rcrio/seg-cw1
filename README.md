@@ -12,4 +12,5 @@ Due to university guidelines on plagiarism and collusion, the main branch contai
 - Collaborators: Adam, Lance, and Maxwell
 
 ## Visual Demo
+A gif showing user login and that users having different user types have different pages.
 ![Test](https://i.imgur.com/D1JitYK.gif)
