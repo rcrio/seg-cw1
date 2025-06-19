@@ -18,13 +18,13 @@ A gif preview of what the video will show.
 
 ![Showing logins into different pages](https://i.imgur.com/D1JitYK.gif)
 
-A video here showing how a login works on the website.
+A [video here](https://youtu.be/zJraKgarP4c) showing how a sign-up works on the website.
 
 A gif preview of what the video will show.
 
 ![Signing up](https://i.imgur.com/7q6lm0O.gif)
 
-A video here showing all the lists of students, tutors, bookings, subjects, requests and invoices.
+A [video here](https://youtu.be/iO9GU6TKCxk) showing all the lists of students, tutors, bookings, subjects, requests and invoices.
 
 A gif preview of what the video will show.
 
